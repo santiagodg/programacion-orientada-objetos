@@ -1,0 +1,3 @@
+[submodule "proyecto-dos-biblioteca"]
+	path = proyecto-dos-biblioteca
+	url = https://github.com/santiagodg/proyecto-dos-biblioteca.git
