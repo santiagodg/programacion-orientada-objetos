@@ -4,3 +4,12 @@
 [submodule "fraccion-sobrecargada"]
 	path = fraccion-sobrecargada
 	url = https://github.com/santiagodg/fraccion-sobrecargada.git
+[submodule "proyecto-uno-cine"]
+	path = proyecto-uno-cine
+	url = https://github.com/santiagodg/proyecto-uno-cine.git
+[submodule "cuenta"]
+	path = cuenta
+	url = https://github.com/santiagodg/cuenta.git
+[submodule "persona"]
+	path = persona
+	url = https://github.com/santiagodg/persona.git
