@@ -1,3 +1,6 @@
 [submodule "proyecto-dos-biblioteca"]
 	path = proyecto-dos-biblioteca
 	url = https://github.com/santiagodg/proyecto-dos-biblioteca.git
+[submodule "fraccion-sobrecargada"]
+	path = fraccion-sobrecargada
+	url = https://github.com/santiagodg/fraccion-sobrecargada.git
