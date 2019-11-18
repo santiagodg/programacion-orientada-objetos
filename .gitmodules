@@ -13,3 +13,51 @@
 [submodule "persona"]
 	path = persona
 	url = https://github.com/santiagodg/persona.git
+[submodule "apuntadores"]
+	path = apuntadores
+	url = https://github.com/santiagodg/apuntadores.git
+[submodule "archivos"]
+	path = archivos
+	url = https://github.com/santiagodg/archivos.git
+[submodule "arreglos"]
+	path = arreglos
+	url = https://github.com/santiagodg/arreglos.git
+[submodule "artista"]
+	path = artista
+	url = https://github.com/santiagodg/artista.git
+[submodule "complejo"]
+	path = complejo
+	url = https://github.com/santiagodg/complejo.git
+[submodule "complejo-sobrecargado"]
+	path = complejo-sobrecargado
+	url = https://github.com/santiagodg/complejo-sobrecargado.git
+[submodule "fraccion"]
+	path = fraccion
+	url = https://github.com/santiagodg/fraccion.git
+[submodule "fraccion-apuntador"]
+	path = fraccion-apuntador
+	url = https://github.com/santiagodg/fraccion-apuntador.git
+[submodule "math"]
+	path = math
+	url = https://github.com/santiagodg/math.git
+[submodule "materia"]
+	path = materia
+	url = https://github.com/santiagodg/materia.git
+[submodule "rectangulo"]
+	path = rectangulo
+	url = https://github.com/santiagodg/rectangulo.git
+[submodule "reloj"]
+	path = reloj
+	url = https://github.com/santiagodg/reloj.git
+[submodule "reloj-sobrecargado"]
+	path = reloj-sobrecargado
+	url = https://github.com/santiagodg/reloj-sobrecargado.git
+[submodule "strings"]
+	path = strings
+	url = https://github.com/santiagodg/strings.git
+[submodule "tarea-dos-cuenta-bancaria"]
+	path = tarea-dos-cuenta-bancaria
+	url = https://github.com/santiagodg/tarea-dos-cuenta-bancaria.git
+[submodule "teatro"]
+	path = teatro
+	url = https://github.com/santiagodg/teatro.git
