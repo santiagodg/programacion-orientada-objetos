@@ -64,3 +64,6 @@
 [submodule "plantillas"]
 	path = plantillas
 	url = https://github.com/santiagodg/plantillas.git
+[submodule "plantillas-con-matrices"]
+	path = plantillas-con-matrices
+	url = https://github.com/santiagodg/plantillas-con-matrices.git
