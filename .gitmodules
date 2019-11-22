@@ -61,3 +61,6 @@
 [submodule "teatro"]
 	path = teatro
 	url = https://github.com/santiagodg/teatro.git
+[submodule "plantillas"]
+	path = plantillas
+	url = https://github.com/santiagodg/plantillas.git
